@@ -1,0 +1,21 @@
+@import url('https://fonts.google.com/specimen/Fugaz+One?query=latin');
+
+
+body{
+    background-image: url(../images/Design_03.jpg);
+    color: white;
+    text-align: center;
+    font-family:'fugaz' ;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family:'fugaz';
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-family:'fugaz';
+}

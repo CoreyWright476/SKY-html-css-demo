@@ -1,0 +1,56 @@
+
+
+
+body{
+  background-image: url(../images/abstract-smooth-empty-grey-studio-well-use-as-background-business-report-digital-website-template-backdrop.jpg);
+  text-align:left;
+  color: black;
+  background-size: auto;
+}
+
+
+
+h1{
+  text-align: center;
+}
+
+.img-thumbnail{
+  border: 1px;
+
+}
+
+footer{
+  text-align: center;
+}
+
+.imageone{
+  width:80cm;
+  height: 8cm;
+}
+
+a{
+  text-align: center;
+}
+
+.anchorone{
+  text-align: center;
+  color: aliceblue;
+}
+
+.anchortwo{
+  text-align: center;
+  color: aliceblue;
+}
+
+nav{
+  text-align: left;
+  font-size: 30px;
+}
+
+h2{
+  text-align: center;
+}
+
+.navbar{
+  background-color: blueviolet;
+}

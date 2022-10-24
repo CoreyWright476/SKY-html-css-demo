@@ -1,56 +1,47 @@
-
-
-
-body{
-  background-image: url(../images/abstract-smooth-empty-grey-studio-well-use-as-background-business-report-digital-website-template-backdrop.jpg);
-  text-align:left;
-  color: black;
-  background-size: auto;
+.navbar {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  font-size: 12px;
+  letter-spacing: 5px;
 }
 
-
-
-h1{
-  text-align: center;
+.navbar-nav li a:hover {
+  color: darkslategray !important; /*navbar altered so it will change colour when the mouse hovers over, marked important so it isnt overwritten*/
 }
 
-.img-thumbnail{
-  border: 1px;
-
+.bg-1 {
+  background-color: darkslategray; /*Dark slate grey*/
+  color: #ffffff;
+}
+.bg-2 {
+  background-color: #474e5d; /*Dark Slate Grey*/
+  color: #ffffff;
+}
+.bg-3 {
+  background-color: #ffffff;
+  color: #555555;
 }
 
-footer{
-  text-align: center;
+.container-fluid {
+  padding-top: 70px;
+  padding-bottom: 70px;
 }
 
-.imageone{
-  width:80cm;
-  height: 8cm;
+  .bg-4 {
+    background-color: #2f2f2f;
+    color: #ffffff;
+  }
+
+.margin
+ {margin-bottom: 45px;}
+
+ img {
+  opacity: 1.0; /*added opacity to my images*/
 }
 
-a{
-  text-align: center;
-}
-
-.anchorone{
-  text-align: center;
-  color: aliceblue;
-}
-
-.anchortwo{
-  text-align: center;
-  color: aliceblue;
-}
-
-nav{
-  text-align: left;
-  font-size: 30px;
-}
-
-h2{
-  text-align: center;
-}
-
-.navbar{
-  background-color: blueviolet;
+img:hover {
+  opacity: 0.5; /*altered opacity so images dims when mouse hovers over to also signify that they are clickable links*/
 }
